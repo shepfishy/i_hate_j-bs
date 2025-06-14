@@ -1,0 +1,20 @@
+{
+  "name": "censor-job-extension",
+  "version": "1.0.0",
+  "description": "A Chrome extension that censors the word 'Job' and replaces it with 'J*b'.",
+  "main": "src/index.html",
+  "scripts": {
+    "build": "echo 'Build script not defined'",
+    "test": "echo 'Test script not defined'"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "censor",
+    "job"
+  ],
+  "author": "First Last",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
